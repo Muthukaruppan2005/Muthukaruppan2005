@@ -10,8 +10,15 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql,mongodb,git,github,vscode,powerbi,unity,blender" />
+  <!-- Skillicons (continuous, no gaps) -->
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql,mongodb,git,github,vscode,unity,blender" />
 </p>
+
+<p align="center">
+  <!-- Custom Power BI badge -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
 
 
 ---
