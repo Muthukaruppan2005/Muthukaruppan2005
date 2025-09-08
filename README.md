@@ -18,10 +18,11 @@
 ---
 
 ## 📌 Projects
-- 🌐 [**Portfolio Website**](#) – Personal site showcasing skills & projects  
-- 🎓 **Alumni Connect** – Alumni–student networking platform  
-- 📊 **Power BI Dashboards** – Analytics for E-commerce & Amazon Prime Video  
-- 🩺 **Virtual Surgical Training** – 3D simulation using Unity & Blender  
+- 🌐 [**Portfolio Website**](https://muthukaruppan-portfolio.vercel.app) – Personal site showcasing my skills, projects, and achievements  
+- 🎓 **Alumni Connect** – Full-stack networking platform for alumni & students with mentorship and career guidance features  
+- 📊 **Power BI Dashboards** – Built dashboards for **E-commerce** (sales analytics) and **Amazon Prime Video** (viewer engagement)  
+- 🩺 **Virtual Surgical Training Platform** – Developed 3D medical training simulations with **Unity & Blender**  
+
 
 ---
 
