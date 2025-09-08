@@ -10,8 +10,9 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,mongodb,sql,git,github,vscode,powerbi,unity,blender" />
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,sql,mongodb,git,github,vscode,powerbi,unity,blender" />
 </p>
+
 
 ---
 
